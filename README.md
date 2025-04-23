@@ -155,7 +155,7 @@ function EventHandlersExample() {
 
 ## Demo
 
-Check out the [live demo](https://your-demo-url.com) to see all the customization options in action.
+Check out the [live demo](https://react-neonic-hero.vercel.app/) to see all the customization options in action.
 
 ## Contributing
 
@@ -163,7 +163,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-MIT © [Your Name]
+MIT © [Mubashir Ali]
 \`\`\`
 
 ```js file="postcss.config.js"
