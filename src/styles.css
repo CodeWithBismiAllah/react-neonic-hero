@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles for the component */
+.neonic-hero {
+  position: relative;
+  overflow: hidden;
+}
