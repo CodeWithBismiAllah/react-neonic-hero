@@ -1,27 +1,26 @@
 # React Neonic Hero
 A stunning, futuristic, animated hero section component for React applications.
-
-<a href="https://www.npmjs.com/package/bismillahcss">
-    <img src="docs/bismillah.svg" alt="npm version">
-</a>
-
 <div align="center">
-  <a href="https://www.npmjs.com/package/bismillahcss">
-    <img src="https://img.shields.io/npm/v/bismillahcss.svg" alt="npm version">
+  <a href="https://www.npmjs.com/package/react-neonic-hero.svg">
+    <img src="https://img.shields.io/npm/v/react-neonic-hero.svg" alt="npm version">
   </a>
-  <a href="https://github.com/BismillahCSS/bismillahcss-framework/blob/main/LICENSE">
-    <img src="https://img.shields.io/npm/l/bismillahcss.svg" alt="license">
+  <a href="https://github.com/CodeWithBismiAllah/react-neonic-hero/blob/main/LICENSE">
+    <img src="https://img.shields.io/npm/l/react-neonic-hero.svg" alt="license">
   </a>
-  <a href="https://www.npmjs.com/package/bismillahcss">
-    <img src="https://img.shields.io/npm/dt/bismillahcss.svg" alt="downloads">
+  <a href="https://www.npmjs.com/package/react-neonic-hero">
+    <img src="https://img.shields.io/npm/dt/react-neonic-hero.svg" alt="downloads">
   </a>
   <a href="https://github.com/BismillahCSS/.github/tree/main/profile">
     <img src="https://img.shields.io/github/stars/BismillahCSS/bismillahcss-framework.svg?style=social" alt="GitHub stars">
   </a>
 </div>
+<br/>
+<a href="https://www.npmjs.com/package/react-neonic-hero">
+    <img src="public/hero.svg" alt="npm version">
+</a>
 
 
-![Neonic Hero Preview](../public/hero.png)
+
 
 ## Features
 
